@@ -1,0 +1,45 @@
+track_name,artist_name,artist_pop,artist_genres,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,genre_score,track_pop
+Cheerleader - Felix Jaehn Remix Radio Edit,25,64,['dance pop'],0.782,0.685,-6.237,0.0309,0.166,1.18e-05,0.16,0.603,118.016,180566,4,13.0,79
+Here Comes The Sun - Remastered 2009,33,82,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",0.557,0.54,-10.484,0.0347,0.0339,0.00248,0.179,0.394,129.171,185733,4,15.0,82
+Shallow,20,83,"['art pop', 'dance pop', 'pop']",0.572,0.385,-6.362,0.0308,0.371,0.0,0.231,0.323,95.799,215733,4,34.0,83
+Sweet but Psycho,3,80,"['dance pop', 'pop']",0.72,0.706,-4.719,0.0473,0.0684,0.0,0.166,0.62,133.002,187436,4,32.0,81
+Tacones Rojos,29,80,"['colombian pop', 'latin', 'reggaeton colombiano']",0.748,0.856,-3.517,0.0348,0.0824,0.0,0.142,0.927,123.031,189320,4,14.0,83
+Me Voy Enamorando,8,63,"['electro latino', 'latin', 'latin hip hop', 'latin pop', 'trap latino', 'tropical']",0.685,0.912,-3.411,0.0687,0.0538,0.0,0.392,0.511,99.957,235720,4,20.0,59
+Bailando - Spanish Version,15,76,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'pop']",0.723,0.777,-3.503,0.108,0.0426,3.68e-06,0.0451,0.961,91.017,243413,4,45.0,54
+Somebody That I Used To Know (Glee Cast Version),16,70,"['glee club', 'hollywood', 'post-teen pop']",0.833,0.467,-7.693,0.0355,0.554,1.14e-05,0.135,0.814,128.918,246187,4,12.0,48
+All of the Stars,14,90,"['pop', 'uk pop']",0.436,0.562,-6.106,0.0278,0.0102,0.000278,0.198,0.24,150.066,234987,4,22.0,66
+Cups (Pitch Perfect’s “When I’m Gone”) - Pop Version,2,62,['hollywood'],0.887,0.441,-8.98,0.114,0.0514,0.00667,0.0338,0.715,129.908,126880,4,6.0,67
+Happier,24,81,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",0.687,0.792,-2.749,0.0452,0.191,0.0,0.167,0.671,100.015,214290,4,40.0,84
+Boho Days,1,59,"['hollywood', 'pop']",0.781,0.595,-8.904,0.859,0.766,0.0,0.342,0.865,81.379,88282,4,25.0,64
+Broken Frame,0,60,"['neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",0.534,0.415,-9.025,0.0367,0.701,0.0,0.105,0.212,54.048,220053,4,31.0,38
+Je T'aime,37,70,"['desi pop', 'filmi', 'modern bollywood']",0.654,0.668,-6.532,0.043,0.591,4.57e-05,0.105,0.763,121.996,241068,4,7.0,42
+Let My Love Open The Door,27,52,"['album rock', 'art rock', 'blues rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock', 'mellow gold', 'power pop', 'pub rock', 'rock', 'roots rock', 'singer-songwriter', 'soft rock', 'symphonic rock']",0.651,0.653,-9.731,0.0545,0.365,0.000117,0.0742,0.729,164.912,164653,4,33.0,68
+Bad Habits,14,90,"['pop', 'uk pop']",0.807,0.893,-3.745,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,230747,4,22.0,91
+I Hear a Symphony,9,61,['indiecoustica'],0.189,0.243,-8.157,0.0345,0.925,0.0288,0.117,0.377,51.67,185176,4,2.0,75
+Billionaire (feat. Bruno Mars),35,61,"['dance pop', 'pop rap']",0.633,0.673,-6.403,0.258,0.297,0.0,0.206,0.659,86.776,211160,4,16.0,73
+Line By Line (feat. Maren Morris),17,66,"['alt z', 'canadian contemporary r&b', 'pop']",0.645,0.486,-7.299,0.0425,0.274,0.0,0.135,0.453,72.536,208187,4,24.0,63
+Dynamite,32,69,"['dance pop', 'pop', 'pop rap']",0.751,0.783,-3.724,0.0859,0.00379,0.0,0.036,0.816,119.975,202613,4,35.0,81
+Locked out of Heaven,6,86,"['dance pop', 'pop']",0.726,0.698,-4.165,0.0431,0.049,0.0,0.309,0.867,143.994,233478,4,32.0,86
+The Lazy Song,6,86,"['dance pop', 'pop']",0.794,0.711,-5.124,0.0699,0.3,0.0,0.0955,0.955,174.915,189109,4,32.0,73
+I Still Haven't Found What I'm Looking For,36,76,"['irish rock', 'permanent wave', 'rock']",0.564,0.774,-9.424,0.0368,0.0135,0.00191,0.0861,0.657,100.894,277477,4,9.0,77
+Glad You Came,34,65,"['boy band', 'dance pop', 'pop', 'post-teen pop']",0.722,0.851,-3.873,0.0639,0.0319,0.0,0.108,0.452,126.885,197936,4,38.0,78
+Raise Your Glass,26,78,"['dance pop', 'pop']",0.7,0.709,-5.006,0.0838,0.0048,0.0,0.029,0.624,122.019,202960,4,32.0,77
+Pompeii,5,74,"['metropopolis', 'modern rock', 'pop', 'pop rock']",0.679,0.715,-6.383,0.0407,0.0755,0.0,0.271,0.571,127.435,214148,4,26.0,76
+Forever After All,23,78,"['contemporary country', 'country', 'country road']",0.487,0.65,-5.195,0.0253,0.191,0.0,0.0933,0.456,151.964,232533,4,6.0,79
+couch,38,59,['alt z'],0.819,0.516,-7.061,0.0463,0.347,0.0,0.119,0.933,125.032,169480,4,3.0,33
+Forest Whitaker,4,38,[],0.719,0.718,-5.482,0.0426,0.331,4.39e-05,0.107,0.91,113.965,223840,4,0.0,50
+Carnaval Del Barrio,12,51,"['broadway', 'show tunes']",0.546,0.563,-7.891,0.101,0.0968,0.0,0.0352,0.7,113.215,420171,4,6.0,55
+Piragua,22,71,"['hollywood', 'show tunes']",0.565,0.407,-7.363,0.0705,0.169,0.0,0.0527,0.636,85.396,102185,4,10.0,50
+"96,000",11,50,[],0.479,0.614,-7.001,0.336,0.013,0.0,0.162,0.406,171.93,345871,4,0.0,54
+Breathe (feat. Rubén Blades and Doreen Montalvo),21,60,"['bachata', 'hollywood', 'latin', 'show tunes']",0.329,0.365,-9.023,0.0474,0.364,0.0,0.334,0.202,172.02,246053,3,19.0,54
+Kholo Kholo,28,40,['filmi'],0.539,0.313,-10.99,0.0337,0.0688,1.65e-05,0.0935,0.239,169.863,311986,4,3.0,53
+There's Nothing Holdin' Me Back,30,83,"['canadian pop', 'pop', 'viral pop']",0.866,0.813,-4.063,0.0554,0.38,0.0,0.0779,0.969,121.998,199440,4,24.0,85
+Viva La Vida,10,86,"['permanent wave', 'pop']",0.486,0.617,-7.115,0.0287,0.0954,3.23e-06,0.109,0.417,138.015,242373,4,22.0,81
+All Of You,31,71,[],0.515,0.467,-10.623,0.0494,0.633,0.0,0.107,0.346,114.532,278440,4,0.0,72
+"Colombia, Mi Encanto",7,74,"['champeta', 'colombian pop', 'latin', 'latin pop', 'tropical', 'vallenato']",0.718,0.88,-7.567,0.11,0.0223,0.0,0.908,0.814,124.007,175280,4,22.0,73
+24K Magic,6,86,"['dance pop', 'pop']",0.818,0.803,-4.282,0.0797,0.034,0.0,0.153,0.632,106.97,225983,4,32.0,79
+What Else Can I Do?,13,67,[],0.718,0.709,-5.568,0.039,0.258,0.0,0.101,0.54,119.974,179427,4,0.0,77
+Waiting On A Miracle,31,71,[],0.48,0.554,-8.145,0.069,0.171,0.0,0.131,0.267,190.066,161840,3,0.0,75
+Surface Pressure,18,61,[],0.65,0.584,-8.286,0.307,0.0174,1.54e-06,0.042,0.37,180.088,202227,4,0.0,80
+Dos Oruguitas,29,80,"['colombian pop', 'latin', 'reggaeton colombiano']",0.423,0.355,-10.565,0.0454,0.761,0.0,0.0915,0.465,93.788,214613,4,14.0,75
+Dil Dhadakne Do,19,42,['northeast indian indie'],0.778,0.599,-4.758,0.032,0.0705,0.0,0.59,0.949,116.951,230319,4,2.0,60
